@@ -32,6 +32,8 @@ The Tour App is licensed under the [MIT License](LICENSE).
 
 Happy touring! 🌍✈️
 
+##
+
 ![globoTourFavs](https://user-images.githubusercontent.com/67714343/141695098-e162b5d7-8775-4b7b-aca3-4b63b805a390.png)
 
 ![globoTourHome](https://user-images.githubusercontent.com/67714343/141695136-be7b5a05-09a6-47d8-98dd-2e119ca08103.png)
