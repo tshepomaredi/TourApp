@@ -26,6 +26,18 @@ Once the app is installed and running, users can perform the following actions:
 - **Edit and Delete:** Edit or delete existing locations or lists as needed.
 
 
+
+
+## Images
+
+<img src="https://user-images.githubusercontent.com/67714343/141695098-e162b5d7-8775-4b7b-aca3-4b63b805a390.png" alt="Results" width="400">
+
+![globoTourFavs](https://user-images.githubusercontent.com/67714343/141695098-e162b5d7-8775-4b7b-aca3-4b63b805a390.png)
+
+![globoTourHome](https://user-images.githubusercontent.com/67714343/141695136-be7b5a05-09a6-47d8-98dd-2e119ca08103.png)
+
+![globoTourHome2](https://user-images.githubusercontent.com/67714343/141695138-b7081ee1-1c51-4d6d-9e69-6d7cd91da9f2.png)
+
 ## License
 The Tour App is licensed under the [MIT License](LICENSE).
 
@@ -34,11 +46,4 @@ Happy touring! 🌍✈️
 
 ##
 
-![globoTourFavs](https://user-images.githubusercontent.com/67714343/141695098-e162b5d7-8775-4b7b-aca3-4b63b805a390.png)
-
-![globoTourHome](https://user-images.githubusercontent.com/67714343/141695136-be7b5a05-09a6-47d8-98dd-2e119ca08103.png)
-
-![globoTourHome2](https://user-images.githubusercontent.com/67714343/141695138-b7081ee1-1c51-4d6d-9e69-6d7cd91da9f2.png)
-
-
-Full project files can be found on a google drive https://drive.google.com/file/d/1WbPewe5y6J4vH0zd2fIHHpFvpHY0TESr/view?usp=sharing
+Full project files can be found here: https://drive.google.com/file/d/1WbPewe5y6J4vH0zd2fIHHpFvpHY0TESr/view?usp=sharing
