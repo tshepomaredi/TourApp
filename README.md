@@ -1,7 +1,36 @@
-# TourApp
-A basic app to keep track of your favourite tour locations and cities written in Kotlin using Android Studio. 
+# Tour App Readme
 
-Users can favorite their favourite locations and store them on a seaprate list. Basic UI/UX done using Andorid studio
+## Overview
+The Tour App is a basic Android application designed to help users keep track of their favorite tour locations and cities. With this app, users can easily add, view, and manage their preferred destinations, organizing them into a separate list for quick access.
+
+## Features
+- **Favorite Locations:** Users can add their favorite tour locations and cities to the app.
+- **Custom Lists:** The app allows users to create custom lists to organize their favorite locations.
+- **Basic UI/UX:** The user interface and user experience have been designed with simplicity and ease of use in mind, utilizing standard Android Studio components.
+
+## Technologies Used
+- **Language:** Kotlin
+- **Development Environment:** Android Studio
+
+## Getting Started
+To get started with the Tour App, follow these steps:
+1. **Download files from google drive:** Download the Tour App repository to your local machine.
+2. **Open in Android Studio:** Open the project in Android Studio IDE.
+3. **Build and Run:** Build the project and run it on an Android emulator or a physical device.
+
+## Usage
+Once the app is installed and running, users can perform the following actions:
+- **Add Locations:** Add new tour locations or cities to the app by providing their name and details.
+- **View Favorites:** View the list of favorite locations saved in the app.
+- **Organize into Lists:** Organize favorite locations into custom lists for better management.
+- **Edit and Delete:** Edit or delete existing locations or lists as needed.
+
+
+## License
+The Tour App is licensed under the [MIT License](LICENSE).
+
+
+Happy touring! 🌍✈️
 
 ![globoTourFavs](https://user-images.githubusercontent.com/67714343/141695098-e162b5d7-8775-4b7b-aca3-4b63b805a390.png)
 
